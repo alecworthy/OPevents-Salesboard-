@@ -77,11 +77,8 @@ Example of Table View
 
 KPI summary sections
 
-<img width="852" height="496" alt="image" src="https://github.com/user-attachments/assets/1c03fca3-4229-4782-b3be-e682a2500949" />
+<img width="752" height="396" alt="image" src="https://github.com/user-attachments/assets/1c03fca3-4229-4782-b3be-e682a2500949" />
 
-
-
-![Sales Dashboard](images/sales-dashboard.png)
 
 🔒 Note on Data
 
