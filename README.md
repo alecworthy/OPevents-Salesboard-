@@ -15,6 +15,7 @@ The final output was a salesboard that stakeholders could easily interact with, 
 - Enable non-technical stakeholders to track KPIs easily
 
 🛠️ Tools Used
+
 <img width="450" height="121" alt="image" src="https://github.com/user-attachments/assets/2b9a1676-a7ef-40bc-848b-38a561633f7f" />
 
 
