@@ -3,29 +3,21 @@
 📌 Project Overview
 
 This project focused on building and designing a sales dashboard in Google Sheets to support performance tracking, reporting, and decision-making for a sales team.
-
 The goal was to transform raw sales data into a clear, automated reporting solution, using data cleaning, pivot tables, and structured metrics to provide visibility across revenue, targets, and trends.
-
 The final output was a salesboard that stakeholders could easily interact with, update, and use on an ongoing basis.
 
 🎯 Objectives
 
-Clean and standardise raw sales data for analysis
-
-Design a scalable reporting structure in Google Sheets
-
-Build pivot tables to summarise performance metrics
-
-Create a clear, user-friendly sales dashboard
-
-Enable non-technical stakeholders to track KPIs easily
+- Clean and standardise raw sales data for analysis
+- Design a scalable reporting structure in Google Sheets
+- Build pivot tables to summarise performance metrics
+- Create a clear, user-friendly sales dashboard
+- Enable non-technical stakeholders to track KPIs easily
 
 🛠️ Tools Used
-Tool	Purpose
-Google Sheets	Data cleaning, analysis, and dashboarding
-Pivot Tables	Aggregations and KPI calculations
-Formulas	Calculated fields, lookups, and validation
-Charts	Visualising trends and performance
+<img width="450" height="121" alt="image" src="https://github.com/user-attachments/assets/2b9a1676-a7ef-40bc-848b-38a561633f7f" />
+
+
 🗂️ Key Features & Work Completed
 🔹 Data Cleaning & Preparation
 
