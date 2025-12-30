@@ -79,14 +79,13 @@ KPI summary sections
 
 <img width="752" height="396" alt="image" src="https://github.com/user-attachments/assets/1c03fca3-4229-4782-b3be-e682a2500949" />
 
+Monthly Summary Chart
+
+<img width="748" height="466" alt="image" src="https://github.com/user-attachments/assets/0c0f067d-dac2-4dd9-992d-46964a1384ea" />
+
 
 🔒 Note on Data
 
 The original dataset contained commercially sensitive information.
 Any data shown in screenshots or examples has been anonymised or recreated for demonstration purposes.
 
-📎 Portfolio Context
-
-This project forms part of my broader analytics portfolio, demonstrating practical reporting and dashboarding skills alongside SQL and Python projects.
-
-👉 Portfolio site: https://alecworthy.github.io
