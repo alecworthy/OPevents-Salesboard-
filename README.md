@@ -1,12 +1,17 @@
-# OPevents-Salesboard-
-📊 Sales Dashboard & Reporting (Google Sheets)
-📌 Project Overview
+
+## 📊 Salesnoard & Reporting (Google Sheets)
+
+---
+
+# 📌 Project Overview
 
 This project focused on building and designing a sales dashboard in Google Sheets to support performance tracking, reporting, and decision-making for a sales team.
 The goal was to transform raw sales data into a clear, automated reporting solution, using data cleaning, pivot tables, and structured metrics to provide visibility across revenue, targets, and trends.
 The final output was a salesboard that stakeholders could easily interact with, update, and use on an ongoing basis.
 
-🎯 Objectives
+---
+
+# 🎯 Objectives
 
 - Clean and standardise raw sales data for analysis
 - Design a scalable reporting structure in Google Sheets
@@ -14,12 +19,15 @@ The final output was a salesboard that stakeholders could easily interact with, 
 - Create a clear, user-friendly sales dashboard
 - Enable non-technical stakeholders to track KPIs easily
 
-🛠️ Tools Used
+---
+
+# 🛠️ Tools Used
 
 <img width="450" height="121" alt="image" src="https://github.com/user-attachments/assets/2b9a1676-a7ef-40bc-848b-38a561633f7f" />
 
+---
 
-🗂️ Key Features & Work Completed
+# 🗂️ Key Features & Work Completed
 
 🔹 Data Cleaning & Preparation
 
@@ -47,14 +55,18 @@ The final output was a salesboard that stakeholders could easily interact with, 
 - Filters/slicers to drill into specific periods or sales reps
 - Focused on clarity, usability, and stakeholder needs
 
-📈 Business Impact
+---
+
+# 📈 Business Impact
 
 - Provided stakeholders with real-time visibility into sales performance
 - Reduced manual reporting effort by automating summaries and metrics
 - Enabled faster identification of trends, gaps, and opportunities
 - Improved consistency and trust in reported sales numbers
 
-🧠 Skills Demonstrated
+---
+
+# 🧠 Skills Demonstrated
 
 - Data cleaning and validation
 - Spreadsheet modelling and structure
@@ -63,7 +75,9 @@ The final output was a salesboard that stakeholders could easily interact with, 
 - Dashboard design for non-technical users
 - Translating business requirements into analytical solutions
 
-📷 Screenshots
+---
+
+# 📷 Screenshots
 
 The final dashboard
 
@@ -83,8 +97,9 @@ Monthly Summary Chart
 
 <img width="748" height="466" alt="image" src="https://github.com/user-attachments/assets/0c0f067d-dac2-4dd9-992d-46964a1384ea" />
 
+---
 
-🔒 Note on Data
+# 🔒 Note on Data
 
 The original dataset contained commercially sensitive information.
 Any data shown in screenshots or examples has been anonymised or recreated for demonstration purposes.
